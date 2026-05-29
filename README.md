@@ -33,22 +33,23 @@ https://restcountries.com/v3.1/alpha/[code]
 - /search → Search countries
 - /about → About page
 
+
+## Screenshots
+
+### Home Page
+<img src="/home.jpeg" width="100%" />
+
+### Countries Page
+<img src="/countrys.jpeg" width="100%" />
+
+### Country Details Page
+<img src="/country.jpeg" width="100%" />
+
+### Search Page
+<img src="/search.jpeg" width="100%" />
+
 ## How to Run the Project
 
 ```bash
 npm install
 npm run dev
-
-## Screenshots
-
-### Home Page
-![Home Page](./home.jpeg)
-
-### Countries Page
-![Countries Page](./countrys.jpeg)
-
-### Country Details Page
-![Country Page](./country.jpeg)
-
-### Search Page
-![Search Page](./search.jpeg)

@@ -33,17 +33,16 @@ https://restcountries.com/v3.1/alpha/[code]
 - /search → Search countries
 - /about → About page
 
-
 ## Screenshots
 
 ### Home Page
 <img src="/home.jpeg" width="100%" />
 
 ### Countries Page
-<img src="/countrys.jpeg" width="100%" />
+<img src="/countries.jpeg" width="100%" />
 
 ### Country Details Page
-<img src="/country.jpeg" width="100%" />
+<img src="/detail.jpeg" width="100%" />
 
 ### Search Page
 <img src="/search.jpeg" width="100%" />

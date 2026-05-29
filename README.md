@@ -36,16 +36,16 @@ https://restcountries.com/v3.1/alpha/[code]
 ## Screenshots
 
 ### Home Page
-<img src="/home.jpeg" width="100%" />
+<img src="./public/home.jpeg" width="100%" />
 
 ### Countries Page
-<img src="/countries.jpeg" width="100%" />
+<img src="./public/countries.jpeg" width="100%" />
 
 ### Country Details Page
-<img src="/detail.jpeg" width="100%" />
+<img src="./public/detail.jpeg" width="100%" />
 
 ### Search Page
-<img src="/search.jpeg" width="100%" />
+<img src="./public/search.jpeg" width="100%" />
 
 ## How to Run the Project
 

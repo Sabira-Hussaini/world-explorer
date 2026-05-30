@@ -2,7 +2,7 @@ import CountrySearch from "@/components/CountrySearch";
 
 export default async function SearchPage() {
 const res = await fetch(
-  "https://restcountries.com/v3.1/all?fields=name,cca3,flags",
+  "https://restcountries.com/v3.1/all?fields=name,cca3,flags,region",
   { cache: "no-store" }
 );
 

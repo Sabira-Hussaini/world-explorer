@@ -1,8 +1,11 @@
 import Link from "next/link";
+import FavoriteButton from "./FavoriteButton";
 
 export default function CountryCard({ country }) {
   return (
-    <div className="bg-[#FFFFFF] border border-[#E5E7EB] rounded-2xl shadow-sm hover:shadow-lg transition duration-300 overflow-hidden">
+    <div className="relative bg-[#FFFFFF] border border-[#E5E7EB] rounded-2xl shadow-sm hover:shadow-lg transition duration-300 overflow-hidden">
+
+      <FavoriteButton code={country.cca3} />
 
       <img
         src={country.flags.png}
